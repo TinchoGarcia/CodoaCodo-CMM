@@ -7,3 +7,7 @@ A través de este repositorio, se busca compartir los conocimientos adquiridos y
 Consultar TP P1 en:
 
 https://lookerstudio.google.com/u/0/reporting/23aaed43-2007-4504-b0be-471bc561c72d/page/p_2c9pzkelhd
+
+Consultar TP P2 ():
+
+https://colab.research.google.com/drive/1OiMNUNfOaBF7HroF2eU9UaHfDLgocqoT?usp=sharing
